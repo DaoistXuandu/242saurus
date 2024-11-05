@@ -1,23 +1,17 @@
 yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+  name: Raihan Akbar
+  title: Tidur Malam
+  url: https://github.com/DaoistXuandu
+  image_url: https://github.com/DaoistXuandu.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    github: DaoistXuandu
 
 slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+  name: Michael Ignasius
+  title: Tidur Pagi
+  url: https://github.com/DawnFall19
+  image_url: https://github.com/DawnFall19.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: DawnFall19
